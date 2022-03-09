@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "moongoons": "apps/moongoons",
+    "moongoons-e2e": "apps/moongoons-e2e"
+  }
+}
